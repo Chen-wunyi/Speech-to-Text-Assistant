@@ -1,2 +1,4 @@
 # Speech-to-Text-Assistant
-When it's inconvenient to use the phone, I mostly rely on voice input. However, when I need to input into multiple fields at once, store frequently used sentences for quick access, or input emoticons, this system can help solve these issues. 
+This is an Android app primarily developed using Java, with SQLite as the database. 
+When it's inconvenient to use the phone, voice input is mostly used. However, when needing to input into multiple fields at once, store frequently used sentences for quick access, or input emoticons, this app can help resolve these issues.
+
